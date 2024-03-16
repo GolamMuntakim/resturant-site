@@ -1,0 +1,57 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Classic Spaghetti Carbonara",
+      "short_description": "A classic Italian pasta dish with creamy sauce and crispy bacon.",
+      "preparing_time": 30,
+      "calories": 450,
+      "recipe_image": "https://i.ibb.co/7n5jQvh/1.jpg",
+      "ingredients": ["spaghetti", "bacon", "eggs", "parmesan cheese"]
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Grilled Lemon Herb Chicken",
+      "short_description": "Juicy grilled chicken marinated in a tangy lemon herb sauce.",
+      "preparing_time": 40,
+      "calories": 350,
+      "recipe_image": "https://i.ibb.co/B4d6sZS/2.jpg",
+      "ingredients": ["chicken breasts", "lemon", "olive oil", "herbs"]
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Vegetable Stir-Fry",
+      "short_description": "Healthy and colorful stir-fried vegetables in a savory sauce.",
+      "preparing_time": 25,
+      "calories": 200,
+      "recipe_image": "https://i.ibb.co/djpFtxK/3.jpg",
+      "ingredients": ["bell peppers", "broccoli", "carrots", "soy sauce"]
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Homemade Pizza",
+      "short_description": "Delicious homemade pizza with your favorite toppings.",
+      "preparing_time": 45,
+      "calories": 600,
+      "recipe_image": "https://i.ibb.co/nrrj0Bm/4.jpg",
+      "ingredients": ["pizza dough", "tomato sauce", "mozzarella cheese", "pepperoni"]
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Fresh Fruit Salad",
+      "short_description": "Refreshing fruit salad with a citrus dressing.",
+      "preparing_time": 15 ,
+      "calories": 120,
+      "recipe_image": "https://i.ibb.co/WcXDFcs/5.jpg",
+      "ingredients": ["strawberries", "kiwi", "grapes", "orange juice"]
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Creamy Mushroom Risotto",
+      "short_description": "Rich and creamy risotto with savory mushrooms.",
+      "preparing_time": 35,
+      "calories": 380,
+      "recipe_image": "https://i.ibb.co/KWtbZ49/6.jpg",
+      "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "parmesan cheese"]
+    }
+  ]
+  
